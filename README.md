@@ -1,2 +1,1 @@
-# arcard
-Augmented Reality Personal Card
+# AR Catalogue
